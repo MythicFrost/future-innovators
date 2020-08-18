@@ -193,12 +193,20 @@ h3 {
     color: white;
 }
 
+/* -------- #group processes -------- */
+
+.group-processes {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background: white;
+}
+
 /* -------- #ideal jobs -------- */
 
 .ideal-jobs {
     padding-top: 40px;
     padding-bottom: 40px;
-    background: white;
+    background: #eee;
 }
 
 .flex {
